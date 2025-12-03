@@ -110,20 +110,14 @@ def main():
     # Ask user for configuration
     print(f"\nTotal schools to process: {len(schools)}")
     
-    start_input = input("Enter starting index (press Enter for 0): ").strip()
-    start_idx = int(start_input) if start_input else 0
+    start_idx = 0
     
-    limit_input = input(f"Enter number of schools to process (press Enter for all from {start_idx}): ").strip()
-    if limit_input:
-        end_idx = start_idx + int(limit_input)
-    else:
-        end_idx = len(schools)
+  
+    end_idx = len(schools)
     
-    delay_input = input("Enter delay between requests in seconds (default 2): ").strip()
-    delay = float(delay_input) if delay_input else 2.0
+    delay =  0
     
-    save_interval_input = input("Save progress every N schools (default 50): ").strip()
-    save_interval = int(save_interval_input) if save_interval_input else 50
+    save_interval = 1
     
     print("\n" + "="*80)
     print(f"Starting extraction from index {start_idx} to {end_idx}")
