@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Agra",
+    "url": "https://www.cbseschool.org/schools/agra/"
+  },
+  {
+    "name": "Ahmedabad",
+    "url": "https://www.cbseschool.org/schools/ahmedabad/"
+  },
+  {
+    "name": "Ahmednagar",
+    "url": "https://www.cbseschool.org/schools/ahmednagar/"
+  },
+  {
+    "name": "Ajmer",
+    "url": "https://www.cbseschool.org/schools/ajmer/"
+  },
+  {
+    "name": "Alappuzha",
+    "url": "https://www.cbseschool.org/schools/alappuzha/"
+  },
+  {
+    "name": "Aligarh",
+    "url": "https://www.cbseschool.org/schools/aligarh/"
+  },
+  {
+    "name": "Almora",
+    "url": "https://www.cbseschool.org/schools/almora/"
+  },
+  {
+    "name": "Alwar",
+    "url": "https://www.cbseschool.org/schools/alwar/"
+  },
+  {
+    "name": "Ambala",
+    "url": "https://www.cbseschool.org/schools/ambala/"
+  },
+  {
+    "name": "Amritsar",
+    "url": "https://www.cbseschool.org/schools/amritsar/"
+  },
+  {
+    "name": "Aurangabad",
+    "url": "https://www.cbseschool.org/schools/aurangabad/"
+  },
+  {
+    "name": "Ayodhya",
+    "url": "https://www.cbseschool.org/schools/ayodhya/"
+  },
+  {
+    "name": "Azamgarh",
+    "url": "https://www.cbseschool.org/schools/azamgarh/"
+  },
+  {
+    "name": "Bagalkot",
+    "url": "https://www.cbseschool.org/schools/bagalkot/"
+  },
+  {
+    "name": "Baghpat",
+    "url": "https://www.cbseschool.org/schools/baghpat/"
+  },
+  {
+    "name": "Ballia",
+    "url": "https://www.cbseschool.org/schools/ballia/"
+  },
+  {
+    "name": "Bareilly",
+    "url": "https://www.cbseschool.org/schools/bareilly/"
+  },
+  {
+    "name": "Bastar",
+    "url": "https://www.cbseschool.org/schools/bastar/"
+  },
+  {
+    "name": "Bathinda",
+    "url": "https://www.cbseschool.org/schools/bathinda/"
+  },
+  {
+    "name": "Belagavi",
+    "url": "https://www.cbseschool.org/schools/belagavi/"
+  },
+  {
+    "name": "Bengaluru",
+    "url": "https://www.cbseschool.org/schools/bengaluru/"
+  },
+  {
+    "name": "Bhilwara",
+    "url": "https://www.cbseschool.org/schools/bhilwara/"
+  },
+  {
+    "name": "Bhiwani",
+    "url": "https://www.cbseschool.org/schools/bhiwani/"
+  },
+  {
+    "name": "Bhopal",
+    "url": "https://www.cbseschool.org/schools/bhopal/"
+  },
+  {
+    "name": "Bijnour",
+    "url": "https://www.cbseschool.org/schools/bijnour/"
+  },
+  {
+    "name": "Bilaspur",
+    "url": "https://www.cbseschool.org/schools/bilaspur/"
+  },
+  {
+    "name": "Bokaro",
+    "url": "https://www.cbseschool.org/schools/bokaro/"
+  },
+  {
+    "name": "Bulandshahar",
+    "url": "https://www.cbseschool.org/schools/bulandshahar/"
+  },
+  {
+    "name": "Burdwan",
+    "url": "https://www.cbseschool.org/schools/burdwan/"
+  },
+  {
+    "name": "Champaran East",
+    "url": "https://www.cbseschool.org/schools/champaran-east/"
+  },
+  {
+    "name": "Chandauli",
+    "url": "https://www.cbseschool.org/schools/chandauli/"
+  },
+  {
+    "name": "Chandigarh(ut)",
+    "url": "https://www.cbseschool.org/schools/chandigarhut/"
+  },
+  {
+    "name": "Chandrapur",
+    "url": "https://www.cbseschool.org/schools/chandrapur/"
+  },
+  {
+    "name": "Chennai",
+    "url": "https://www.cbseschool.org/schools/chennai/"
+  },
+  {
+    "name": "Chennai City",
+    "url": "https://www.cbseschool.org/schools/chennai-city/"
+  },
+  {
+    "name": "Chhindwara",
+    "url": "https://www.cbseschool.org/schools/chhindwara/"
+  },
+  {
+    "name": "Coimbatore",
+    "url": "https://www.cbseschool.org/schools/coimbatore/"
+  },
+  {
+    "name": "Dehradun",
+    "url": "https://www.cbseschool.org/schools/dehradun/"
+  },
+  {
+    "name": "Deoria",
+    "url": "https://www.cbseschool.org/schools/deoria/"
+  },
+  {
+    "name": "Dewas",
+    "url": "https://www.cbseschool.org/schools/dewas/"
+  },
+  {
+    "name": "Dhanbad",
+    "url": "https://www.cbseschool.org/schools/dhanbad/"
+  },
+  {
+    "name": "Dhar",
+    "url": "https://www.cbseschool.org/schools/dhar/"
+  },
+  {
+    "name": "Dindigul",
+    "url": "https://www.cbseschool.org/schools/dindigul/"
+  },
+  {
+    "name": "Durg",
+    "url": "https://www.cbseschool.org/schools/durg/"
+  },
+  {
+    "name": "East Delhi",
+    "url": "https://www.cbseschool.org/schools/east-delhi/"
+  },
+  {
+    "name": "East District",
+    "url": "https://www.cbseschool.org/schools/east-district/"
+  },
+  {
+    "name": "East Singhbhum",
+    "url": "https://www.cbseschool.org/schools/east-singhbhum/"
+  },
+  {
+    "name": "Ernakulam",
+    "url": "https://www.cbseschool.org/schools/ernakulam/"
+  },
+  {
+    "name": "Faridabad",
+    "url": "https://www.cbseschool.org/schools/faridabad/"
+  },
+  {
+    "name": "Fatehabad",
+    "url": "https://www.cbseschool.org/schools/fatehabad/"
+  },
+  {
+    "name": "Firozabad",
+    "url": "https://www.cbseschool.org/schools/firozabad/"
+  },
+  {
+    "name": "Firozpur",
+    "url": "https://www.cbseschool.org/schools/firozpur/"
+  },
+  {
+    "name": "Ganjam",
+    "url": "https://www.cbseschool.org/schools/ganjam/"
+  },
+  {
+    "name": "Gautam Budh Nagar",
+    "url": "https://www.cbseschool.org/schools/gautam-budh-nagar/"
+  },
+  {
+    "name": "Gaya",
+    "url": "https://www.cbseschool.org/schools/gaya/"
+  },
+  {
+    "name": "Ghaziabad",
+    "url": "https://www.cbseschool.org/schools/ghaziabad/"
+  },
+  {
+    "name": "Ghazipur",
+    "url": "https://www.cbseschool.org/schools/ghazipur/"
+  },
+  {
+    "name": "Gorakhpur",
+    "url": "https://www.cbseschool.org/schools/gorakhpur/"
+  },
+  {
+    "name": "Guntur",
+    "url": "https://www.cbseschool.org/schools/guntur/"
+  },
+  {
+    "name": "Gurdaspur",
+    "url": "https://www.cbseschool.org/schools/gurdaspur/"
+  },
+  {
+    "name": "Gurugram",
+    "url": "https://www.cbseschool.org/schools/gurugram/"
+  },
+  {
+    "name": "Gwalior",
+    "url": "https://www.cbseschool.org/schools/gwalior/"
+  },
+  {
+    "name": "Hanumangarh",
+    "url": "https://www.cbseschool.org/schools/hanumangarh/"
+  },
+  {
+    "name": "Haridwar",
+    "url": "https://www.cbseschool.org/schools/haridwar/"
+  },
+  {
+    "name": "Hathras",
+    "url": "https://www.cbseschool.org/schools/hathras/"
+  },
+  {
+    "name": "Hazaribagh",
+    "url": "https://www.cbseschool.org/schools/hazaribagh/"
+  },
+  {
+    "name": "Hissar",
+    "url": "https://www.cbseschool.org/schools/hissar/"
+  },
+  {
+    "name": "Hoshangabad",
+    "url": "https://www.cbseschool.org/schools/hoshangabad/"
+  },
+  {
+    "name": "Hoshiarpur",
+    "url": "https://www.cbseschool.org/schools/hoshiarpur/"
+  },
+  {
+    "name": "Hyderabad",
+    "url": "https://www.cbseschool.org/schools/hyderabad/"
+  },
+  {
+    "name": "Imphal",
+    "url": "https://www.cbseschool.org/schools/imphal/"
+  },
+  {
+    "name": "Indore",
+    "url": "https://www.cbseschool.org/schools/indore/"
+  },
+  {
+    "name": "Jabalpur",
+    "url": "https://www.cbseschool.org/schools/jabalpur/"
+  },
+  {
+    "name": "Jaipur",
+    "url": "https://www.cbseschool.org/schools/jaipur/"
+  },
+  {
+    "name": "Jalandhar",
+    "url": "https://www.cbseschool.org/schools/jalandhar/"
+  },
+  {
+    "name": "Jalgaon",
+    "url": "https://www.cbseschool.org/schools/jalgaon/"
+  },
+  {
+    "name": "Jammu",
+    "url": "https://www.cbseschool.org/schools/jammu/"
+  },
+  {
+    "name": "Jaunpur",
+    "url": "https://www.cbseschool.org/schools/jaunpur/"
+  },
+  {
+    "name": "Jhajjar",
+    "url": "https://www.cbseschool.org/schools/jhajjar/"
+  },
+  {
+    "name": "Jhansi",
+    "url": "https://www.cbseschool.org/schools/jhansi/"
+  },
+  {
+    "name": "Jhunjhunu",
+    "url": "https://www.cbseschool.org/schools/jhunjhunu/"
+  },
+  {
+    "name": "Jind",
+    "url": "https://www.cbseschool.org/schools/jind/"
+  },
+  {
+    "name": "Jodhpur",
+    "url": "https://www.cbseschool.org/schools/jodhpur/"
+  },
+  {
+    "name": "Jyotiba Phule Nagar",
+    "url": "https://www.cbseschool.org/schools/jyotiba-phule-nagar/"
+  },
+  {
+    "name": "Kaithal",
+    "url": "https://www.cbseschool.org/schools/kaithal/"
+  },
+  {
+    "name": "Kamrup",
+    "url": "https://www.cbseschool.org/schools/kamrup/"
+  },
+  {
+    "name": "Kancheepuram",
+    "url": "https://www.cbseschool.org/schools/kancheepuram/"
+  },
+  {
+    "name": "Kangra",
+    "url": "https://www.cbseschool.org/schools/kangra/"
+  },
+  {
+    "name": "Kannur",
+    "url": "https://www.cbseschool.org/schools/kannur/"
+  },
+  {
+    "name": "Kanpur Nagar",
+    "url": "https://www.cbseschool.org/schools/kanpur-nagar/"
+  },
+  {
+    "name": "Kanyakumari",
+    "url": "https://www.cbseschool.org/schools/kanyakumari/"
+  },
+  {
+    "name": "Kapurthala",
+    "url": "https://www.cbseschool.org/schools/kapurthala/"
+  },
+  {
+    "name": "Karnal",
+    "url": "https://www.cbseschool.org/schools/karnal/"
+  },
+  {
+    "name": "Kasaragod",
+    "url": "https://www.cbseschool.org/schools/kasaragod/"
+  },
+  {
+    "name": "Khargone",
+    "url": "https://www.cbseschool.org/schools/khargone/"
+  },
+  {
+    "name": "Khurda",
+    "url": "https://www.cbseschool.org/schools/khurda/"
+  },
+  {
+    "name": "Kolkata",
+    "url": "https://www.cbseschool.org/schools/kolkata/"
+  },
+  {
+    "name": "Kollam",
+    "url": "https://www.cbseschool.org/schools/kollam/"
+  },
+  {
+    "name": "Korba",
+    "url": "https://www.cbseschool.org/schools/korba/"
+  },
+  {
+    "name": "Kota",
+    "url": "https://www.cbseschool.org/schools/kota/"
+  },
+  {
+    "name": "Kottayam",
+    "url": "https://www.cbseschool.org/schools/kottayam/"
+  },
+  {
+    "name": "Kozhikode",
+    "url": "https://www.cbseschool.org/schools/kozhikode/"
+  },
+  {
+    "name": "Kurukshetra",
+    "url": "https://www.cbseschool.org/schools/kurukshetra/"
+  },
+  {
+    "name": "Lakhimpur Kheri",
+    "url": "https://www.cbseschool.org/schools/lakhimpur-kheri/"
+  },
+  {
+    "name": "Lucknow",
+    "url": "https://www.cbseschool.org/schools/lucknow/"
+  },
+  {
+    "name": "Ludhiana",
+    "url": "https://www.cbseschool.org/schools/ludhiana/"
+  },
+  {
+    "name": "Madurai",
+    "url": "https://www.cbseschool.org/schools/madurai/"
+  },
+  {
+    "name": "Mahendragarh",
+    "url": "https://www.cbseschool.org/schools/mahendragarh/"
+  },
+  {
+    "name": "Malappuram",
+    "url": "https://www.cbseschool.org/schools/malappuram/"
+  },
+  {
+    "name": "Mangalore",
+    "url": "https://www.cbseschool.org/schools/mangalore/"
+  },
+  {
+    "name": "Mansa",
+    "url": "https://www.cbseschool.org/schools/mansa/"
+  },
+  {
+    "name": "Mathura",
+    "url": "https://www.cbseschool.org/schools/mathura/"
+  },
+  {
+    "name": "Mayurbhanj",
+    "url": "https://www.cbseschool.org/schools/mayurbhanj/"
+  },
+  {
+    "name": "Meerut",
+    "url": "https://www.cbseschool.org/schools/meerut/"
+  },
+  {
+    "name": "Moga",
+    "url": "https://www.cbseschool.org/schools/moga/"
+  },
+  {
+    "name": "Moradabad",
+    "url": "https://www.cbseschool.org/schools/moradabad/"
+  },
+  {
+    "name": "Muktsar",
+    "url": "https://www.cbseschool.org/schools/muktsar/"
+  },
+  {
+    "name": "Mumbai",
+    "url": "https://www.cbseschool.org/schools/mumbai/"
+  },
+  {
+    "name": "Muzaffarnagar",
+    "url": "https://www.cbseschool.org/schools/muzaffarnagar/"
+  },
+  {
+    "name": "Muzaffarpur",
+    "url": "https://www.cbseschool.org/schools/muzaffarpur/"
+  },
+  {
+    "name": "Mysuru",
+    "url": "https://www.cbseschool.org/schools/mysuru/"
+  },
+  {
+    "name": "Nagaur",
+    "url": "https://www.cbseschool.org/schools/nagaur/"
+  },
+  {
+    "name": "Nagpur",
+    "url": "https://www.cbseschool.org/schools/nagpur/"
+  },
+  {
+    "name": "Nainital",
+    "url": "https://www.cbseschool.org/schools/nainital/"
+  },
+  {
+    "name": "Nalanda",
+    "url": "https://www.cbseschool.org/schools/nalanda/"
+  },
+  {
+    "name": "Namakkal",
+    "url": "https://www.cbseschool.org/schools/namakkal/"
+  },
+  {
+    "name": "Nashik",
+    "url": "https://www.cbseschool.org/schools/nashik/"
+  },
+  {
+    "name": "New Delhi",
+    "url": "https://www.cbseschool.org/schools/new-delhi/"
+  },
+  {
+    "name": "North 24-Pargana",
+    "url": "https://www.cbseschool.org/schools/north-24-pargana/"
+  },
+  {
+    "name": "North Delhi",
+    "url": "https://www.cbseschool.org/schools/north-delhi/"
+  },
+  {
+    "name": "North East Delhi",
+    "url": "https://www.cbseschool.org/schools/north-east-delhi/"
+  },
+  {
+    "name": "North West Delhi",
+    "url": "https://www.cbseschool.org/schools/north-west-delhi/"
+  },
+  {
+    "name": "Palakkad",
+    "url": "https://www.cbseschool.org/schools/palakkad/"
+  },
+  {
+    "name": "Palwal",
+    "url": "https://www.cbseschool.org/schools/palwal/"
+  },
+  {
+    "name": "Panchkula",
+    "url": "https://www.cbseschool.org/schools/panchkula/"
+  },
+  {
+    "name": "Panipat",
+    "url": "https://www.cbseschool.org/schools/panipat/"
+  },
+  {
+    "name": "Papumpara",
+    "url": "https://www.cbseschool.org/schools/papumpara/"
+  },
+  {
+    "name": "Pathanamthitta",
+    "url": "https://www.cbseschool.org/schools/pathanamthitta/"
+  },
+  {
+    "name": "Patiala",
+    "url": "https://www.cbseschool.org/schools/patiala/"
+  },
+  {
+    "name": "Patna",
+    "url": "https://www.cbseschool.org/schools/patna/"
+  },
+  {
+    "name": "Pauri Garhwal",
+    "url": "https://www.cbseschool.org/schools/pauri-garhwal/"
+  },
+  {
+    "name": "Pithoragarh",
+    "url": "https://www.cbseschool.org/schools/pithoragarh/"
+  },
+  {
+    "name": "Prayagraj",
+    "url": "https://www.cbseschool.org/schools/prayagraj/"
+  },
+  {
+    "name": "Pune",
+    "url": "https://www.cbseschool.org/schools/pune/"
+  },
+  {
+    "name": "Raebareli",
+    "url": "https://www.cbseschool.org/schools/raebareli/"
+  },
+  {
+    "name": "Raigad",
+    "url": "https://www.cbseschool.org/schools/raigad/"
+  },
+  {
+    "name": "Raigarh",
+    "url": "https://www.cbseschool.org/schools/raigarh/"
+  },
+  {
+    "name": "Raipur",
+    "url": "https://www.cbseschool.org/schools/raipur/"
+  },
+  {
+    "name": "Rajkot",
+    "url": "https://www.cbseschool.org/schools/rajkot/"
+  },
+  {
+    "name": "Rampur",
+    "url": "https://www.cbseschool.org/schools/rampur/"
+  },
+  {
+    "name": "Ranchi",
+    "url": "https://www.cbseschool.org/schools/ranchi/"
+  },
+  {
+    "name": "Rangareddy",
+    "url": "https://www.cbseschool.org/schools/rangareddy/"
+  },
+  {
+    "name": "Rewari",
+    "url": "https://www.cbseschool.org/schools/rewari/"
+  },
+  {
+    "name": "Rohtak",
+    "url": "https://www.cbseschool.org/schools/rohtak/"
+  },
+  {
+    "name": "Rupnagar",
+    "url": "https://www.cbseschool.org/schools/rupnagar/"
+  },
+  {
+    "name": "Sagar",
+    "url": "https://www.cbseschool.org/schools/sagar/"
+  },
+  {
+    "name": "Saharanpur",
+    "url": "https://www.cbseschool.org/schools/saharanpur/"
+  },
+  {
+    "name": "Salem",
+    "url": "https://www.cbseschool.org/schools/salem/"
+  },
+  {
+    "name": "Samastipur",
+    "url": "https://www.cbseschool.org/schools/samastipur/"
+  },
+  {
+    "name": "Sangrur",
+    "url": "https://www.cbseschool.org/schools/sangrur/"
+  },
+  {
+    "name": "Saran (Chapra)",
+    "url": "https://www.cbseschool.org/schools/saran-chapra/"
+  },
+  {
+    "name": "Sas Nagar",
+    "url": "https://www.cbseschool.org/schools/sas-nagar/"
+  },
+  {
+    "name": "Saudi Arabia",
+    "url": "https://www.cbseschool.org/schools/saudi-arabia/"
+  },
+  {
+    "name": "Shahjahanpur",
+    "url": "https://www.cbseschool.org/schools/shahjahanpur/"
+  },
+  {
+    "name": "Shimla",
+    "url": "https://www.cbseschool.org/schools/shimla/"
+  },
+  {
+    "name": "Sikar",
+    "url": "https://www.cbseschool.org/schools/sikar/"
+  },
+  {
+    "name": "Sirsa",
+    "url": "https://www.cbseschool.org/schools/sirsa/"
+  },
+  {
+    "name": "Siwan",
+    "url": "https://www.cbseschool.org/schools/siwan/"
+  },
+  {
+    "name": "Solan",
+    "url": "https://www.cbseschool.org/schools/solan/"
+  },
+  {
+    "name": "Sonbhadra",
+    "url": "https://www.cbseschool.org/schools/sonbhadra/"
+  },
+  {
+    "name": "Sonipat",
+    "url": "https://www.cbseschool.org/schools/sonipat/"
+  },
+  {
+    "name": "South Delhi",
+    "url": "https://www.cbseschool.org/schools/south-delhi/"
+  },
+  {
+    "name": "South District",
+    "url": "https://www.cbseschool.org/schools/south-district/"
+  },
+  {
+    "name": "South West Delhi",
+    "url": "https://www.cbseschool.org/schools/south-west-delhi/"
+  },
+  {
+    "name": "Sri Ganganagar",
+    "url": "https://www.cbseschool.org/schools/sri-ganganagar/"
+  },
+  {
+    "name": "Sultanpur",
+    "url": "https://www.cbseschool.org/schools/sultanpur/"
+  },
+  {
+    "name": "Sundargarh",
+    "url": "https://www.cbseschool.org/schools/sundargarh/"
+  },
+  {
+    "name": "Surat",
+    "url": "https://www.cbseschool.org/schools/surat/"
+  },
+  {
+    "name": "Surguja",
+    "url": "https://www.cbseschool.org/schools/surguja/"
+  },
+  {
+    "name": "Tarn Taran",
+    "url": "https://www.cbseschool.org/schools/tarn-taran/"
+  },
+  {
+    "name": "Thane",
+    "url": "https://www.cbseschool.org/schools/thane/"
+  },
+  {
+    "name": "Thiruvallur",
+    "url": "https://www.cbseschool.org/schools/thiruvallur/"
+  },
+  {
+    "name": "Thiruvananthapuram",
+    "url": "https://www.cbseschool.org/schools/thiruvananthapuram/"
+  },
+  {
+    "name": "Thrissur",
+    "url": "https://www.cbseschool.org/schools/thrissur/"
+  },
+  {
+    "name": "Tirunelveli",
+    "url": "https://www.cbseschool.org/schools/tirunelveli/"
+  },
+  {
+    "name": "Trichirappalli",
+    "url": "https://www.cbseschool.org/schools/trichirappalli/"
+  },
+  {
+    "name": "Udaipur",
+    "url": "https://www.cbseschool.org/schools/udaipur/"
+  },
+  {
+    "name": "Udham Singh Nagar",
+    "url": "https://www.cbseschool.org/schools/udham-singh-nagar/"
+  },
+  {
+    "name": "Ujjain",
+    "url": "https://www.cbseschool.org/schools/ujjain/"
+  },
+  {
+    "name": "United Arab Emirates",
+    "url": "https://www.cbseschool.org/schools/united-arab-emirates/"
+  },
+  {
+    "name": "Vadodara (Baroda)",
+    "url": "https://www.cbseschool.org/schools/vadodara-baroda/"
+  },
+  {
+    "name": "Vaishali (Hajipur)",
+    "url": "https://www.cbseschool.org/schools/vaishali-hajipur/"
+  },
+  {
+    "name": "Varanasi",
+    "url": "https://www.cbseschool.org/schools/varanasi/"
+  },
+  {
+    "name": "Vellore",
+    "url": "https://www.cbseschool.org/schools/vellore/"
+  },
+  {
+    "name": "Visakhapatnam",
+    "url": "https://www.cbseschool.org/schools/visakhapatnam/"
+  },
+  {
+    "name": "Warangal",
+    "url": "https://www.cbseschool.org/schools/warangal/"
+  },
+  {
+    "name": "West Delhi",
+    "url": "https://www.cbseschool.org/schools/west-delhi/"
+  },
+  {
+    "name": "West District",
+    "url": "https://www.cbseschool.org/schools/west-district/"
+  },
+  {
+    "name": "West Tripura",
+    "url": "https://www.cbseschool.org/schools/west-tripura/"
+  },
+  {
+    "name": "Yamunanagar",
+    "url": "https://www.cbseschool.org/schools/yamunanagar/"
+  }
+]
